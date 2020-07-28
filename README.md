@@ -1,0 +1,1 @@
+En aquest projecte faré una imitació de la pàgina d'inici de Google.
